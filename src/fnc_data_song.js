@@ -1202,7 +1202,7 @@ var ary_SongData = [
 	["The Concealed Four Seasons",											new Set([TITLE.TJD]), { title: "TJD", }, "XRTU74Zun2E", "Track 10", ARRANGED_TRACK, OTHER_THEME],
 	["Ghosts Exist Even When It's Not Night",								new Set([TITLE.TJD]), { title: "TJD", }, "rEUzj32oXWM", "Track 11", ORIGINAL_TRACK, OTHER_THEME],
 	
-	//Unconnected Marketeers
+	//Fossilized Wonders
 	["Shrine Maiden Crowned with Glory",							new Set([TITLE.FW]), { title: "FW", }, "Lt4M5V_218M", "Title Screen", ORIGINAL_TRACK, OTHER_THEME],
 	["Beloved Dwelling of Dust",									new Set([TITLE.FW]), { title: "FW", }, "rrYm3OgRvk8", "Stage 1", ORIGINAL_TRACK, STAGE_THEME],
 	["Even if Forgotten by the World",								new Set([TITLE.FW]), { title: "FW", }, "hZH4O6qEnf0", "Ubame Chirizuka's theme", ORIGINAL_TRACK, BOSS_THEME],
